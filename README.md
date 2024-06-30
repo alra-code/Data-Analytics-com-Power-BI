@@ -14,5 +14,5 @@ Esse é o segundo projeto que subo no GitHub, ainda tenho dificuldades mais esto
 
  - [bootcamp](https://web.dio.me/track/coding-the-future-sysvision-data-analytics)
  - [aula extra](https://www.youtube.com/watch?v=rTbSsVFeeI0&t=433s)
- - [Relatório Pornto](https://drive.google.com/file/d/1JHJb9tC9d8YKAvutk8pFdfdZ7KP6GR_F/view?usp=sharing)
+ - [Relatório Pronto](https://drive.google.com/file/d/1JHJb9tC9d8YKAvutk8pFdfdZ7KP6GR_F/view?usp=sharing)
 
