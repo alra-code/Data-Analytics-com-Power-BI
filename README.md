@@ -9,7 +9,6 @@ Para acessar o meu perfil público na Dio.me <a href="https://dio.me/users/lu_as
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -93,39 +92,6 @@ __Desafio 6 - Criando um Relatório Vendas e Lucros com Data Analytics com Power
 Criar um relatório criativo, focando na experiência do usuário.
 <br>
 <br>
-
-
-__Desafio 7 - Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI__
-
-**OBJETIVO:** <br>
-
-Criar um relatório criativo, focando na apresentação do conteúdo (storytelling) ao cliente.
-<br>
-<br>
-
-
-## 🔖 Layout 
-### Projetos
-- Desafio 1 - Analisando dados de um Dashboard de Vendas no Power BI
-  Você pode visualizar o layout do projeto através **em desemvolvimento** [DESSE LINK](https://www.canva.com). <br>
-  
-- Desafio 2 - Criando Um Relatório Gerencial de Vendas com Power BI
-  Você pode visualizar o layout do projeto através **em desemvolvimento** [DESSE LINK](https://www.canva.com). <br>
-  
-- Desafio 3 - Criando um Dashboard corporativo com integração com MySQL e Azure
-  Você pode visualizar o layout do projeto através **em desemvolvimento** [DESSE LINK](https://www.canva.com). <br>
-  
-- Desafio 4 - Dashboard de Vendas com Power BI utilizando Star Schema
-  Você pode visualizar o layout do projeto através **em desemvolvimento** [DESSE LINK](https://www.canva.com). <br>
-  
-- Desafio 5 - Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
-  Você pode visualizar o layout do projeto através **em desemvolvimento** [DESSE LINK](https://www.canva.com). <br>
-  
-- Desafio 6 - Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
-  Você pode visualizar o layout do projeto através **em desemvolvimento** [DESSE LINK](https://www.canva.com). <br>
-  
-- Desafio 7 - Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
-  Você pode visualizar o layout do projeto através **em desemvolvimento** [DESSE LINK](https://www.canva.com). <br>
 
 
 ## :memo: Licença
