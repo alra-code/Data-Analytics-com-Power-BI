@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Desafio de projetos 👩‍💻
 Bootcamp - Data Analytics com Power BI - Dio.me
@@ -27,3 +28,17 @@ O desafio se trata de fazer um relatório com 3 páginas, com dados de vendas e 
  - [aula extra](https://www.youtube.com/watch?v=rTbSsVFeeI0&t=433s)
  - [Relatório Pronto](https://drive.google.com/file/d/1JHJb9tC9d8YKAvutk8pFdfdZ7KP6GR_F/view?usp=sharing)
 
+=======
+
+# Desafio de projetos 👩‍💻
+Bootcamp - Data Analytics com Power BI - Dio.me
+
+## Objetivo 
+Criar diagrama dimensional - Star Schema 
+<br>
+
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/5f9f735e-da10-41e7-ab5b-02d66577e365"/>
+<br>
+
+
+>>>>>>> 95b99768c3ead833d358d91ce722301b2789d097
